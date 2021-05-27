@@ -13,10 +13,12 @@
 .o-noteContentImage__likeCount { display:none !important; }
 .o-like__pcCount { display:none !important; }
 .o-commentArea__likeCount { display:none !important; }
+.o-smallNoteSummary__statusCount { display:none !important; }
 .m-noteListItem__likeCount { display:none !important; }
 .m-noteCard__likeCount { display:none !important; }
 .m-contentReviewers__list { display:none !important; }
 .m-contentReviewers__label { display:none !important; }
+.m-noteBody__statusLabel { display:none !important; }
 
 /* /categories */
 .m-categoryCard__likeCount { display:none !important; }

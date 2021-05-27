@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Hide note suki",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Hide note suki",
   "content_scripts": [
     {
